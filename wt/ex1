@@ -1,0 +1,6 @@
+<html>
+<body>
+<p id="demo">What type of girl she is?? </p>
+<button onclick='document.getElementById("demo").innerHTML="jyo is a good girl.."'>check here</button>
+</body>
+</html>
